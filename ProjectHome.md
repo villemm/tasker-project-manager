@@ -1,0 +1,1 @@
+Very lightweight app to track projects and people working on them for the web done in ruby rails and sprinkling of ajax
